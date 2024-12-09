@@ -1,6 +1,6 @@
 # Pomodoro Timer - ¡Alarma Invasiva del BANANERO!
 
-Siempre que usaba aplicaciones o páginas de Pomodoro, me pasaba lo mismo: cuando sonaba el timbre que te avisa que terminaste, no lo escuchaba porque estaba con música. Entonces decidí hacer mi propia versión de Pomodoro, pero con una alarma más invasiva que se superpone a cualquier cosa que estés haciendo.
+Siempre que usaba aplicaciones o páginas de Pomodoro, me pasaba lo mismo: cuando sonaba el timbre que te avisa que terminaste, no lo escuchaba porque estaba con música concentrado en otra cosa. Entonces decidí hacer mi propia versión de Pomodoro pero con una alarma más invasiva que se superpone a cualquier cosa que estés haciendo.
 
 ### Características:
 - **Alarma del BANANERO**: La alarma no es cualquier cosa, ¡es del BANANERO, papá! Una vez que suena, no hay forma de que no la escuches, te sacude todo SAPEE.
